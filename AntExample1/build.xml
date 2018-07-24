@@ -31,4 +31,4 @@
 		<delete dir="build" />
 	</target>
 	
-<project>
+</project>
